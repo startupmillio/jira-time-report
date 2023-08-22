@@ -1,0 +1,21 @@
+{
+  "workLogs": {
+    "filter": {
+      "from": "2023-08-22T13:00:00.000Z"
+    }
+  },
+  "users": [
+    {
+      "id": "5cbeac48cf9b780e6a39ffb4",
+      "name": "Dina Efimova"
+    },
+    {
+      "id": "6284b4a9d9ddcc006e9d96b6",
+      "name": "Ilya Biarzhanin"
+    },
+    {
+      "id": "557058:c8475d19-d29e-4926-bef5-22bbc38b2f14",
+      "name": "Sergei Bobrov"
+    }
+  ]
+}
